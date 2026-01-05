@@ -1,5 +1,5 @@
 ## Hi there 👋
-I`m Murithi-geek 
+I`m Mworia Koome.  
 A Full Stack Developer specialized in Cyber Security and Artificial Intelligence.
 You can reach me through my linked socials. 
 
