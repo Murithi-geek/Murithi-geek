@@ -1,4 +1,7 @@
 ## Hi there 👋
+I`m Murithi-geek 
+A Full Stack Developer specialized in Cyber Security and Artificial Intelligence.
+You can reach me through my linked socials. 
 
 <!--
 **Murithi-geek/Murithi-geek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
